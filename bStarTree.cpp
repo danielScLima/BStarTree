@@ -19,6 +19,7 @@ void BTreeStar::dealockNodeOfBTrees()
     {
         root->dealockSubTree();
         delete root;
+        root = nullptr;
     }
 }
 

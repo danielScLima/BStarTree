@@ -58,6 +58,11 @@ public:
      */
     bool remove(int number);
 
+    /*!
+     * \brief dealockNodeOfBTrees
+     */
+    void dealockNodeOfBTrees();
+
 private:
     NodeOfBStarTree* root = nullptr;
 
@@ -81,10 +86,7 @@ private:
      * \return
      */
     NodeOfBStarTree *getAncestor(NodeOfBStarTree *node, int number);
-    /*!
-     * \brief dealockNodeOfBTrees
-     */
-    void dealockNodeOfBTrees();
+
 };
 
 #endif // BTREE_STAR_H

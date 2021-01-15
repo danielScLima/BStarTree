@@ -1,5 +1,6 @@
 BStarTree
 ====================
+Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/BStarTree.svg?branch=master)](https://www.travis-ci.com/danielScLima/BStarTree)
 
 This repository has a project with the implementation of a BStarTree.
 

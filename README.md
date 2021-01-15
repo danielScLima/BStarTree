@@ -1,5 +1,7 @@
 BStarTree
 ====================
+Building with AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/vjlbyho07xkjeu41?svg=true)](https://ci.appveyor.com/project/DanielSLima/bstartree)
+
 Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/BStarTree.svg?branch=master)](https://www.travis-ci.com/danielScLima/BStarTree)
 
 This repository has a project with the implementation of a BStarTree.
